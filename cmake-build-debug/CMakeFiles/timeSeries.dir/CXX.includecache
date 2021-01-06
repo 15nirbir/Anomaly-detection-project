@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nirbirnboim/Desktop/ass2/Server.cpp
+Server.h
+/Users/nirbirnboim/Desktop/ass2/Server.h
+
+/Users/nirbirnboim/Desktop/ass2/Server.h
+thread
+-
+
