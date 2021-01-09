@@ -155,7 +155,9 @@ public:
 	    std:: string line;
 	    int numOfRows=0;
 	    do{
+
 	        line = dio->read();
+
 	        if(line.compare("done")==0){
                 break;
 	        }

@@ -23,7 +23,9 @@ void CLI::start(){
 
 
     while(true){
+
         printMenu(&commands[0] , 6);
+
         std::string choose = dio->read();
         int num = std::stoi(choose) -1;
         commands[num]->execute(data);

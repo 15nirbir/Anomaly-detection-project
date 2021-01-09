@@ -20,8 +20,16 @@ CMakeFiles/timeSeries.dir/HybridAnomalyDetector.cpp.o
  /Users/nirbirnboim/Desktop/ass2/minCircle.h
  /Users/nirbirnboim/Desktop/ass2/timeseries.h
 CMakeFiles/timeSeries.dir/Server.cpp.o
+ /Users/nirbirnboim/Desktop/ass2/AnomalyDetector.h
+ /Users/nirbirnboim/Desktop/ass2/CLI.h
+ /Users/nirbirnboim/Desktop/ass2/HybridAnomalyDetector.h
  /Users/nirbirnboim/Desktop/ass2/Server.cpp
  /Users/nirbirnboim/Desktop/ass2/Server.h
+ /Users/nirbirnboim/Desktop/ass2/SimpleAnomalyDetector.h
+ /Users/nirbirnboim/Desktop/ass2/anomaly_detection_util.h
+ /Users/nirbirnboim/Desktop/ass2/commands.h
+ /Users/nirbirnboim/Desktop/ass2/minCircle.h
+ /Users/nirbirnboim/Desktop/ass2/timeseries.h
 CMakeFiles/timeSeries.dir/SimpleAnomalyDetector.cpp.o
  /Users/nirbirnboim/Desktop/ass2/AnomalyDetector.h
  /Users/nirbirnboim/Desktop/ass2/SimpleAnomalyDetector.cpp
@@ -39,6 +47,7 @@ CMakeFiles/timeSeries.dir/main.cpp.o
  /Users/nirbirnboim/Desktop/ass2/AnomalyDetector.h
  /Users/nirbirnboim/Desktop/ass2/CLI.h
  /Users/nirbirnboim/Desktop/ass2/HybridAnomalyDetector.h
+ /Users/nirbirnboim/Desktop/ass2/Server.h
  /Users/nirbirnboim/Desktop/ass2/SimpleAnomalyDetector.h
  /Users/nirbirnboim/Desktop/ass2/anomaly_detection_util.h
  /Users/nirbirnboim/Desktop/ass2/commands.h

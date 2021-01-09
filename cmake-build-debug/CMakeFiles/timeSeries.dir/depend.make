@@ -19,8 +19,16 @@ CMakeFiles/timeSeries.dir/HybridAnomalyDetector.cpp.o: ../anomaly_detection_util
 CMakeFiles/timeSeries.dir/HybridAnomalyDetector.cpp.o: ../minCircle.h
 CMakeFiles/timeSeries.dir/HybridAnomalyDetector.cpp.o: ../timeseries.h
 
+CMakeFiles/timeSeries.dir/Server.cpp.o: ../AnomalyDetector.h
+CMakeFiles/timeSeries.dir/Server.cpp.o: ../CLI.h
+CMakeFiles/timeSeries.dir/Server.cpp.o: ../HybridAnomalyDetector.h
 CMakeFiles/timeSeries.dir/Server.cpp.o: ../Server.cpp
 CMakeFiles/timeSeries.dir/Server.cpp.o: ../Server.h
+CMakeFiles/timeSeries.dir/Server.cpp.o: ../SimpleAnomalyDetector.h
+CMakeFiles/timeSeries.dir/Server.cpp.o: ../anomaly_detection_util.h
+CMakeFiles/timeSeries.dir/Server.cpp.o: ../commands.h
+CMakeFiles/timeSeries.dir/Server.cpp.o: ../minCircle.h
+CMakeFiles/timeSeries.dir/Server.cpp.o: ../timeseries.h
 
 CMakeFiles/timeSeries.dir/SimpleAnomalyDetector.cpp.o: ../AnomalyDetector.h
 CMakeFiles/timeSeries.dir/SimpleAnomalyDetector.cpp.o: ../SimpleAnomalyDetector.cpp
@@ -38,6 +46,7 @@ CMakeFiles/timeSeries.dir/anomaly_detection_util.cpp.o: ../anomaly_detection_uti
 CMakeFiles/timeSeries.dir/main.cpp.o: ../AnomalyDetector.h
 CMakeFiles/timeSeries.dir/main.cpp.o: ../CLI.h
 CMakeFiles/timeSeries.dir/main.cpp.o: ../HybridAnomalyDetector.h
+CMakeFiles/timeSeries.dir/main.cpp.o: ../Server.h
 CMakeFiles/timeSeries.dir/main.cpp.o: ../SimpleAnomalyDetector.h
 CMakeFiles/timeSeries.dir/main.cpp.o: ../anomaly_detection_util.h
 CMakeFiles/timeSeries.dir/main.cpp.o: ../commands.h
